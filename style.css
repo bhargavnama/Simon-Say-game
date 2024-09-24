@@ -30,3 +30,15 @@ body{
 .box4{
     background-color: #819ff9;
 }
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
+
+.gameover{
+    background-color: red;
+}
